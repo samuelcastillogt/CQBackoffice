@@ -2,6 +2,8 @@
     <section class="sidebar">
         <div class="sidebar-option">
             <p>Inicio</p>
+            <p>Posts</p>
+            <p>Creador de posts</p>
         </div>
     </section>
 </template>

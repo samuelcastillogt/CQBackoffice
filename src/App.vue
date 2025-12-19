@@ -1,13 +1,13 @@
 <script setup lang="ts">
-import Header from './components/Header.vue'
 import Slidebar from "./components/Sidebar.vue"
+import Editor from "./components/Editor.vue"
 </script>
 
 <template>
   <div class="container">
   <Slidebar />
   <div class="otherside">
-    <h1>Hola</h1>
+    <Editor />
     </div>
   </div>
 
